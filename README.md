@@ -8,8 +8,6 @@ Olá, sou @Lucasdev796,
 
 📫 Você pode entrar em contato comigo através do meu email lucas.desenvolvedor.tec@gmail.com ou através do LinkedIn em https://www.linkedin.com/in/lucas-costa-894397255/
 
-😄 Pronomes: Ele/Dele.
-
 ⚡ Curiosidade: Sou apaixonado por resolver problemas complexos através da programação e estou sempre em busca de novos desafios que me permitam expandir minhas habilidades.
 
 <!---
