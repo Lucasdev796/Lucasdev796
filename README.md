@@ -42,7 +42,7 @@
 ### 📫 Vamos nos conectar?
 
 📎 [Acesse meu LinkedIn](https://www.linkedin.com/in/lucas-costa-894397255/)  
-📬 [E-mail](lucas.desenvolvedor.tec@gmail.com)
+📬 [E-mail]lucas.desenvolvedor.tec@gmail.com
 📬 Estou sempre aberto a trocar ideias, aprender com a comunidade e contribuir com projetos!
 
 ---
