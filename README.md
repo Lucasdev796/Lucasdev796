@@ -25,7 +25,7 @@
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
 ---
@@ -41,10 +41,11 @@
 
 ### 📫 Vamos nos conectar?
 
-📎 [Acesse meu LinkedIn](https://www.linkedin.com/in/lucas-costa-894397255/)  
-📬 E-mail: lucas.desenvolvedor.tec@gmail.com </p>
-📬 Estou sempre aberto a trocar ideias, aprender com a comunidade e contribuir com projetos!
+- 📍 Itapevi, São Paulo – Brasil  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-costa-894397255)  
+- 📸 [Instagram](https://www.instagram.com/lucascsb_)
 
 ---
 
-<p align="center">👋 Obrigado por visitar meu perfil! 👋</p>
+### 🚀 Obrigado por visitar meu perfil!
+Sinta-se à vontade para explorar meus projetos ou entrar em contato para colaborarmos em algo incrível! 😄
